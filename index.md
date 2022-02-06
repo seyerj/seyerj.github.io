@@ -1,6 +1,3 @@
-<html>
-<body>
-<pre>
  _    _      _                           
 | |  | |    | |                          
 | |  | | ___| | ___ ___  _ __ ___   ___  
@@ -20,7 +17,3 @@ Ops and infrastructure by day, crypto and blockchain hobbyst by night
 - Infrastructure/server/node management
 - Virtualization
 - Microsoft365
-    
-       </pre> 
-    </body>
-</html>
