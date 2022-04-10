@@ -11,12 +11,14 @@
 ## Hello, I am Josh
 
 Ops and infrastructure by day, crypto and blockchain hobbyst by night
-[https://github.com/seyerj](url)
+
+   Github: [https://github.com/seyerj](https://github.com/seyerj "It's My Github")   
+   Gists: [https://gist.github.com/seyerj](https://gist.github.com/seyerj "Just the Gists")   
  
 ### Current projects
 
 - Server/security automation
-- Powershell [https://github.com/seyerj?tab=repositories](url)
+- Powershell https://github.com/seyerj?tab=repositories
 - Infrastructure/server/node management
 - Virtualization: VMware and virtualbox
 - Microsoft365
